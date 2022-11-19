@@ -1,0 +1,5 @@
+.background{
+    background-image: url(../picture/BG.png);
+    /* filter: blur(8px);  */
+    overflow-x: hidden;
+}
