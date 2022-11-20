@@ -1,0 +1,7 @@
+.background{
+    background-image: url(../picture/LPFIX.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* filter: blur(8px);  */
+    overflow-x: hidden;
+}
