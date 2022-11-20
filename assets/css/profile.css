@@ -51,3 +51,7 @@
   body a:hover {
     text-decoration: none;
   }
+
+  .modalBlur {
+    filter: blur(8px);
+  }
